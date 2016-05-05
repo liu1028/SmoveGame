@@ -15,8 +15,5 @@ this is a game for practicing the Java's Graphics Class and designing the class 
  ![游戏运行时](https://github.com/liu1028/SmoveGame/blob/master/SMOVE-src/src/image/run1.png)
  ![游戏运行时](https://github.com/liu1028/SmoveGame/blob/master/SMOVE-src/src/image/run2.png)
  
- ***
- 
- ###说明文档请查看根目录的.docx文档
  
 
